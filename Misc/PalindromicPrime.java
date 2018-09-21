@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PalindromePrime {
+public class PalindromicPrime {
 
     public static void main(String[] args) { // Main funtion
         Scanner in = new Scanner(System.in);
